@@ -1,5 +1,7 @@
 # A GIF frame sequence optimizer optimized for screen recordings
 
+This is the companion code for my article, [**A GIF optimization algorithm for screen recordings — from 5 MB to 986 KB**](https://dev.to/dtinth/a-gif-optimization-algorithm-for-screen-recordings-from-5-mb-to-986-kb-143g).
+
 ## The optimization process
 
 Prerequisites: Node.js, Yarn, FFmpeg, Gifsicle
